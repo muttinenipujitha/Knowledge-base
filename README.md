@@ -133,6 +133,9 @@ knowledge-base/
 
 ---
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea710bdd-b610-445c-b971-1f56ede98658" />
+
+
 ## 👩‍💻 Author
 
 **Muttineni Pujitha**  
