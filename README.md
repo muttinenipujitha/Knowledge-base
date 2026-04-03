@@ -131,4 +131,4 @@ knowledge-base/
 ## 👩‍💻 Author
 
 **Muttineni Pujitha**  
-[GitHub](#) · [LinkedIn](https://www.linkedin.com/in/pujithamuttineni/) · muttinenipujitha@gmail.com
+[GitHub](https://github.com/muttinenipujitha) · [LinkedIn](https://www.linkedin.com/in/pujithamuttineni/) · muttinenipujitha@gmail.com
