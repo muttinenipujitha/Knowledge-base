@@ -17,17 +17,15 @@ A pixel-accurate React implementation of the Knowledge Base screen from the Worc
 ### Installation & Run
 
 ```bash
-# 1. Unzip and enter the project folder
-unzip knowledge-base.zip
-cd knowledge-base
 
-# 2. Install dependencies
+
+# 1. Install dependencies
 npm install
 
-# 3. Start development server
+# 2. Start development server
 npm run dev
 
-# 4. Open in your browser
+# 3. Open in your browser
 # http://localhost:5173
 ```
 
