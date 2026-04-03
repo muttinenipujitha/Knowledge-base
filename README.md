@@ -14,6 +14,11 @@ A pixel-accurate React implementation of the Knowledge Base screen from the Worc
 - Node.js v18 or higher
 - npm v9 or higher
 
+## 🌐 Live Demo
+
+https://knowledgebase-sand.vercel.app
+
+
 ### Installation & Run
 
 ```bash
