@@ -134,6 +134,7 @@ knowledge-base/
 ---
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea710bdd-b610-445c-b971-1f56ede98658" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ccad461-b6b5-406e-9400-087fa9835546" />
 
 
 ## 👩‍💻 Author
